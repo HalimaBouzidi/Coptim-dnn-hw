@@ -1,1 +1,1 @@
-# Co-Optimization of DNN and Hardware Configurations on Edge GPUs
+## Co-Optimization of DNN and Hardware Configurations on Edge GPUs
